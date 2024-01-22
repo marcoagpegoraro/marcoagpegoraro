@@ -6,7 +6,10 @@ My name is Marco, I'm a software developer, I love my cats and I'm a car enthusi
 I don't have a favorite programming language, each one of them has they own advantages, but if i would need to choose a programming language to program a software in a cold rainy Saturday night, i would probably choose Go.
 
 Feel free to send me an email sometime to talk about anything.
-
+![Me sitting in front of my 1993 Honda Accord](https://raw.githubusercontent.com/marcoagpegoraro/marcoagpegoraro/main/Screenshot%20at%20Jul%2013%2000-02-20.png)
+![Me playing guitar](https://github.com/marcoagpegoraro/marcoagpegoraro/blob/main/Screenshot%20at%20Jul%2013%2000-02-20.png?raw=true)
+![Me with a mustache](https://github.com/marcoagpegoraro/marcoagpegoraro/blob/main/photo_2023-12-13%2017.30.25.jpeg?raw=true)
+![Me hairless](https://github.com/marcoagpegoraro/marcoagpegoraro/blob/main/profile-pic(1).jpg?raw=true)
 
 <!--
 **marcoagpegoraro/marcoagpegoraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
