@@ -1,6 +1,11 @@
-### Hi there 👋
-## Welcome to my GitHub profile 🐱
+## Hi there 👋
+### Welcome to my GitHub profile 🐱
 
+My name is Marco, I'm a software developer, I love my cats and I'm a car enthusiast.
+
+I don't have a favorite programming language, each one of them has they own advantages, but if i would need to choose a programming language to program a software in a cold rainy Saturday night, i would probably choose Go.
+
+Feel free to send me an email sometime to talk about anything.
 
 
 <!--
