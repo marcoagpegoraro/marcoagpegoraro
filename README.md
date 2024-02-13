@@ -7,7 +7,7 @@ I don't have a favorite programming language, each one of them has they own adva
 
 Feel free to send me an email sometime to talk about anything.
 
-My social networks:
+###My social networks:
 Blog (Golang): https://marcoagpegoraro.com.br <br>
 Portfolio (ReactJS): https://marcoagpegoraro.github.io <br>
 LinkedIn: https://www.linkedin.com/in/marco-antonio-goncalves <br>
