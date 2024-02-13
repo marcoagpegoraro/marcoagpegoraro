@@ -8,12 +8,12 @@ I don't have a favorite programming language, each one of them has they own adva
 Feel free to send me an email sometime to talk about anything.
 
 My social networks:
-Blog (Golang): https://marcoagpegoraro.com.br
-Portfolio (ReactJS): https://marcoagpegoraro.github.io
-LinkedIn: https://www.linkedin.com/in/marco-antonio-goncalves
-GitHub: https://github.com/marcoagpegoraro
-Medium: https://medium.com/@tete5423
-Youtube: https://www.youtube.com/@marcoagpegoraro
+Blog (Golang): https://marcoagpegoraro.com.br <br>
+Portfolio (ReactJS): https://marcoagpegoraro.github.io <br>
+LinkedIn: https://www.linkedin.com/in/marco-antonio-goncalves <br>
+GitHub: https://github.com/marcoagpegoraro <br>
+Medium: https://medium.com/@tete5423 <br>
+Youtube: https://www.youtube.com/@marcoagpegoraro <br>
 
 <br>
 <img src="https://raw.githubusercontent.com/marcoagpegoraro/marcoagpegoraro/main/Screenshot%20at%20Jul%2013%2000-02-20.png" alt="Me sitting in front of my 1993 Honda Accord"  width="190" align="left"/>
