@@ -7,6 +7,15 @@ I don't have a favorite programming language, each one of them has they own adva
 
 Feel free to send me an email sometime to talk about anything.
 
+### Languages that i know well:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)           
+
+### Languages that i know how to use, but i don't use very often:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ### My social networks:
 Blog (Golang): https://marcoagpegoraro.com.br <br>
 Portfolio (ReactJS): https://marcoagpegoraro.github.io <br>
