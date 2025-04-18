@@ -17,8 +17,8 @@ Feel free to send me an email sometime to talk about anything.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### My social networks:
-Blog (Golang): https://marcoagpegoraro.com.br <br>
-Portfolio (ReactJS): https://marcoagpegoraro.github.io <br>
+Blog (Hugo): https://pegoraro.dev <br>
+Portfolio (ReactJS): https://portifolio.pegoraro.dev <br>
 LinkedIn: https://www.linkedin.com/in/marco-antonio-goncalves <br>
 GitHub: https://github.com/marcoagpegoraro <br>
 Medium: https://medium.com/@tete5423 <br>
